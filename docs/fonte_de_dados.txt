@@ -1,0 +1,5 @@
+https://sidra.ibge.gov.br/tabela/4714
+
+https://www.ipardes.pr.gov.br/Pagina/Saneamento
+
+http://tabnet.datasus.gov.br/cgi/tabcgi.exe?sinannet/cnv/denguebbr.def
