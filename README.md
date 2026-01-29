@@ -42,8 +42,8 @@ The focus was on transforming raw public datasets into **clean, structured and a
 ---
 
 ## Screenshots
-![Overview](dashboard/screenshots/pagina_1.png)
-![Regional Ranking](dashboard/screenshots/pagina_2.png)
+![Overview](dashboard/screenshots/página 1.png)
+![Regional Ranking](dashboard/screenshots/página 2.png)
 
 ---
 
